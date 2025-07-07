@@ -1,4 +1,4 @@
-Hi! ![](https://github.com/user-attachments/assets/0df72288-ccd2-4f54-8536-e3eba58f6bde)I'm Teeno!
+Hi! ![](https://github.com/user-attachments/assets/0df72288-ccd2-4f54-8536-e3eba58f6bde)I'm Lexy!
 ===============================================================================================================================
 
 ![](https://komarev.com/ghpvc/?username=leteeno)
