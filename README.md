@@ -7,8 +7,8 @@ Hi! ![](https://github.com/user-attachments/assets/0df72288-ccd2-4f54-8536-e3eba
 - 🎨 › I'm mainly working on Websites and Discord Bots
 - 🥓 › Certified Kumru Enjoyer
 
-<a href="https://www.github.com/leteeno" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/leteeno?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/uncutified" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/uncutified?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
