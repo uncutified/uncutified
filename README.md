@@ -1,7 +1,7 @@
 Hi! ![](https://github.com/user-attachments/assets/0df72288-ccd2-4f54-8536-e3eba58f6bde)I'm Rina!
 ===============================================================================================================================
 
-![](https://komarev.com/ghpvc/?username=leteeno)
+![](https://komarev.com/ghpvc/?username=uncutified)
 - 🌍 › I'm living in Germany
 - 🚅 › I'm working as Train Driver (EiB L/T P) @ National Express
 - 🎨 › I'm mainly working on Websites and Discord Bots
